@@ -4,7 +4,7 @@
     "target": "ES2019",
     "lib": ["ES2019", "DOM"],
     "moduleResolution": "node",
-    "strict": true,
+    "strict": false,
     "noUncheckedIndexedAccess": true,
     "noImplicitOverride": true
   }
